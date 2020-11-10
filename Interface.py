@@ -2,11 +2,11 @@
 import re
 import shutil
 import unittest
-#from Src.Common import lprint, readTxt
+from Src.Common import lprint, readTxt
 from Src.Csv import loadParams
 from Src.Csv import loadParams 
 from Config.Config import *
-from Config.Config import *
+
 
 def writer(line, arg):
     '''
