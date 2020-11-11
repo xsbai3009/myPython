@@ -9,9 +9,14 @@ from Config.Config import *
 from Src.Csv import loadParams 
 
 def mypython():
+<<<<<<< HEAD
 	print('1')
 	print('2')
 	print('3')
+=======
+	print('4')
+	print('5')
+>>>>>>> master
 
 print('这是分支')
 
