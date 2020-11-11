@@ -9,7 +9,8 @@ from Config.Config import *
 from Src.Csv import loadParams 
 
 def mypython():
-	print('this is mypython')
+	print('4')
+	print('5')
 
 
 def writer(line, arg):
