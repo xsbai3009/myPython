@@ -9,7 +9,9 @@ from Config.Config import *
 from Src.Csv import loadParams 
 
 def mypython():
-	print('this is mypython')
+	print('1')
+	print('2')
+	print('3')
 
 print('这是分支')
 
