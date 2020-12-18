@@ -8,6 +8,10 @@ class TestApprove(unittest.TestCase):
         resp = requests.get("http://httpbin.org/get?id=2").json()
         assert resp["args"]["id"] == "2"
         print('执行结束')
+		print('收队')
+	
+	def test01_login(self):
+		print('登陆成功')
 		
 
 if __name__ == "__main__":
